@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* Different */
 int main(void)
 {
     printf("Hello world");
